@@ -10,19 +10,19 @@ import {
 
 const items = [
   {
-    title: "Grilled Salmon",
+    title: "egg Curry",
     sub: "With lemon butter sauce",
     price: "$32",
     img: "https://images.unsplash.com/photo-1482049016688-2d3e1b311543",
   },
   {
-    title: "Lobster Tail",
+    title: "ceasar Salad",
     sub: "Served with garlic butter",
     price: "$48",
     img: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c",
   },
   {
-    title: "Shrimp Pasta",
+    title: "burger",
     sub: "Creamy alfredo sauce",
     price: "$26",
     img: "https://plus.unsplash.com/premium_photo-1675252369719-dd52bc69c3df",
